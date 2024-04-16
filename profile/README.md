@@ -6,3 +6,4 @@
 ## پیوند‌های مرتبط
 - [تجربیات تیم فنی رویداد پیرامون ایجاد بازیچه](https://github.com/Scientific-Minigames/.github/blob/main/tech-team-experiences.md)
 - [قالب درخواست بازیچه‌ی جدید](https://github.com/Scientific-Minigames/.github/blob/main/template.md)
+- [بازیچه‌های نمونه‌ی مشابه](https://github.com/Educational-Minigames/.github/blob/main/similar-samples.md)
